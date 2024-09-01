@@ -16,3 +16,5 @@ to turn off or on certain segments on the display.</p>
 
 <h2>Set Up</h2>
 <h3>Arduino</h3>
+<p>Set up the Arduino according to the Tinkercad diagram as shown:</p>
+![image](https://github.com/user-attachments/assets/7636b7b8-0aa0-4e2b-95cb-2cdffc2902ba)
