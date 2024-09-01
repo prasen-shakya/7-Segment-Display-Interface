@@ -22,6 +22,6 @@ to turn off or on certain segments on the display.</p>
 
 
 <p>Follow this, upload sketch.ino into the Arduino using the Arduino IDE </p>
-[sketch.ino](https://github.com/prasen-shakya/7-Segment-Display-Interface/blob/master/sketch.ino)
+[sketch.ino](sketch.ino)
 
 
