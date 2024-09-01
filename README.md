@@ -19,3 +19,9 @@ to turn off or on certain segments on the display.</p>
 <p>Set up the Arduino according to the Tinkercad diagram as shown:</p>
 
 ![Diagram of Arduino](https://github.com/user-attachments/assets/fb5c6e58-aa22-4fd6-8c14-af01e63b0013)
+
+
+<p>Follow this, upload sketch.ino into the Arduino using the Arduino IDE </p>
+[sketch.ino](https://github.com/prasen-shakya/7-Segment-Display-Interface/blob/master/sketch.ino)
+
+
