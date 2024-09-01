@@ -27,7 +27,8 @@ GUI            |  Hardware
 <h3>Arduino</h3>
 <p>Set up the Arduino according to the Tinkercad diagram as shown:</p>
 
-![Diagram of Arduino](https://github.com/user-attachments/assets/fb5c6e58-aa22-4fd6-8c14-af01e63b0013)
+![Diagram of Arduino](https://github.com/user-attachments/assets/00a2dfd1-bb56-476b-8df9-c68402fb982e)
+
 
 
 Follow this, upload [sketch.ino](sketch.ino) into the Arduino using the Arduino IDE
